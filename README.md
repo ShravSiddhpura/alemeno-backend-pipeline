@@ -9,7 +9,7 @@ An asynchronous, event-driven backend architecture designed to ingest, clean, ma
 ## 🏗️ 1. High-Level System Architecture
 
 <div align="center">
-  <img src="assets/Arch.jpg" width="100%" alt="System Architecture Diagram">
+  <img src="assets/Arch.png" width="100%" alt="System Architecture Diagram">
 </div>
 
 ### The "Why" Behind the Architecture
@@ -23,7 +23,7 @@ An asynchronous, event-driven backend architecture designed to ingest, clean, ma
 ## ⚙️ 2. Worker Execution Flowchart
 
 <div align="center">
-  <img src="assets/flowchart.jpg" width="100%" alt="Worker Logic Flowchart">
+  <img src="assets/flowchart.png" width="100%" alt="Worker Logic Flowchart">
 </div>
 
 ### Request Lifecycle & Anomaly Detection
