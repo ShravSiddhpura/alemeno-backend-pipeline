@@ -6,6 +6,14 @@ An asynchronous, event-driven backend architecture designed to ingest, clean, ma
 
 ---
 
+## 📹 Video Walkthrough
+
+**[Watch the 3-Minute Technical Architecture Walkthrough on Loom](https://www.loom.com/share/aa0f1a19498440eda731c63c46f88aab)**
+
+---
+
+---
+
 ## 🏗️ 1. High-Level System Architecture
 
 <div align="center">
